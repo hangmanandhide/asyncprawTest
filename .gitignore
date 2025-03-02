@@ -181,3 +181,9 @@ app.log
 
 #the db file if project is run
 redactit.db
+
+#secret.py contains plaintext authentication details for testing only
+secret.py
+
+#old files for reference
+old/
